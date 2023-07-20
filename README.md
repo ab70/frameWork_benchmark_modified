@@ -83,3 +83,10 @@ sudo apt-get install -y nodejs
 ```bash
   bun run dev
 ```
+
+
+## Performance test by wrk 
+Check performance of api by 
+```bash
+  wrk -t8 -c256 -d30s http://127.0.0.1:3000/user/a
+```
