@@ -16,7 +16,7 @@ List of frameworks in test
 | Expressjs | node(js) |   |
 | ElysiaJs(TS) | bunjs(js)  |  |
 | ElysiaJs(JS) | bunjs(js)  | Tried to copy full expressjs structure |
-
+| Hono(JS)   | node+bun     |                                        |
 
 
 ## Installation
